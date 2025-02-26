@@ -1,2 +1,2 @@
 console.log('config.js');
-console.log('version12');hbhb
+console.log('version13'); //new git tutorial//
